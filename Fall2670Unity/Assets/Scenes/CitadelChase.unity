@@ -112,7 +112,7 @@ NavMeshSettings:
     accuratePlacement: 0
     debug:
       m_Flags: 0
-  m_NavMeshData: {fileID: 23800000, guid: 138692747fb2db34997159650b9066e9, type: 2}
+  m_NavMeshData: {fileID: 23800000, guid: d497163e3b34998488442ccc68de0bc8, type: 2}
 --- !u!1 &311649756
 GameObject:
   m_ObjectHideFlags: 0
@@ -160,7 +160,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: b5b91b570412da64b92e36f06dc15a4d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -351,7 +351,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Destination: {fileID: 825518952}
   PostPoint: {fileID: 1343852309}
-  Speed: {fileID: 11400000, guid: 5cee0a579249f5041bd07afd5d2efdee, type: 2}
+  Speed: {fileID: 11400000, guid: 65bed34001ac3434f904f3a5b21e1501, type: 2}
 --- !u!65 &701495871
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -778,7 +778,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Destination: {fileID: 825518952}
   PostPoint: {fileID: 1343852309}
-  Speed: {fileID: 11400000, guid: 5cee0a579249f5041bd07afd5d2efdee, type: 2}
+  Speed: {fileID: 11400000, guid: 65bed34001ac3434f904f3a5b21e1501, type: 2}
 --- !u!1 &1422553875
 GameObject:
   m_ObjectHideFlags: 0
@@ -849,7 +849,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Destination: {fileID: 825518952}
   PostPoint: {fileID: 1343852309}
-  Speed: {fileID: 11400000, guid: 5cee0a579249f5041bd07afd5d2efdee, type: 2}
+  Speed: {fileID: 11400000, guid: 65bed34001ac3434f904f3a5b21e1501, type: 2}
 --- !u!65 &1422553879
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -978,7 +978,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 494a20aecb42d784ab97a420f5b18d05, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1088,7 +1088,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Destination: {fileID: 825518952}
   PostPoint: {fileID: 1343852309}
-  Speed: {fileID: 11400000, guid: 5cee0a579249f5041bd07afd5d2efdee, type: 2}
+  Speed: {fileID: 11400000, guid: 65bed34001ac3434f904f3a5b21e1501, type: 2}
 --- !u!65 &1969841379
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1226,7 +1226,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Destination: {fileID: 825518952}
   PostPoint: {fileID: 1343852309}
-  Speed: {fileID: 11400000, guid: 5cee0a579249f5041bd07afd5d2efdee, type: 2}
+  Speed: {fileID: 11400000, guid: 65bed34001ac3434f904f3a5b21e1501, type: 2}
 --- !u!65 &2032226508
 BoxCollider:
   m_ObjectHideFlags: 0

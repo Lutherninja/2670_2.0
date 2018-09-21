@@ -22,6 +22,10 @@ public class RunCountDown : MonoBehaviour
         }
         yield return new WaitForSeconds(1);
         label.text = "GO";
+        {
+            yield return new WaitForSeconds(1);
+            Destroy(label);
+        }
 
 
     }

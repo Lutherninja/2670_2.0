@@ -11,11 +11,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 195f56ead03074b418061a1d366aa8ae, type: 3}
   m_Name: SideScroller
   m_EditorClassIdentifier: 
-  jumpSpeed: {fileID: 11400000, guid: e9111f07b8315f24a946d362473ecdfd, type: 2}
-  gravity: {fileID: 11400000, guid: 1ad160aba3d86c14685f20ec28134a10, type: 2}
-  RotX: {fileID: 11400000, guid: e9111f07b8315f24a946d362473ecdfd, type: 2}
-  RotY: {fileID: 11400000, guid: e9111f07b8315f24a946d362473ecdfd, type: 2}
-  RotZ: {fileID: 11400000, guid: e9111f07b8315f24a946d362473ecdfd, type: 2}
-  MoveX: {fileID: 11400000, guid: bd16df2b99af44d488305455eea36e28, type: 2}
-  MoveY: {fileID: 11400000, guid: e9111f07b8315f24a946d362473ecdfd, type: 2}
-  MoveZ: {fileID: 11400000, guid: e9111f07b8315f24a946d362473ecdfd, type: 2}
+  JumpSpeed: {fileID: 11400000, guid: ac7b324e7cc417946b4f695b3127aaaa, type: 2}
+  gravity: {fileID: 11400000, guid: 44651ff0c04645f43974986330087f34, type: 2}
+  RotX: {fileID: 11400000, guid: ac7b324e7cc417946b4f695b3127aaaa, type: 2}
+  RotY: {fileID: 11400000, guid: ac7b324e7cc417946b4f695b3127aaaa, type: 2}
+  RotZ: {fileID: 11400000, guid: ac7b324e7cc417946b4f695b3127aaaa, type: 2}
+  MoveX: {fileID: 11400000, guid: 67cad81c823e18a4c96768e9507c0ea3, type: 2}
+  MoveY: {fileID: 11400000, guid: c17b511387d81d1469ad69059ae79ce7, type: 2}
+  MoveZ: {fileID: 11400000, guid: ac7b324e7cc417946b4f695b3127aaaa, type: 2}
