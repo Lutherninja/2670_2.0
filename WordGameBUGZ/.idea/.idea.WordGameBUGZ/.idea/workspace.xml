@@ -58,12 +58,13 @@
       <file leaf-file-name="TriggerID.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/TriggerID.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
-                <marker date="1538425408528" expanded="true" signature="59:221" ph="{...}" />
-                <marker date="1538425408528" expanded="true" signature="131:219" ph="{...}" />
-                <marker date="1538425408528" expanded="true" signature="191:212" ph="{...}" />
+                <marker date="1538425533598" expanded="true" signature="6:44" ph="..." />
+                <marker date="1538425533598" expanded="true" signature="85:335" ph="{...}" />
+                <marker date="1538425533598" expanded="true" signature="188:333" ph="{...}" />
+                <marker date="1538425533598" expanded="true" signature="248:326" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -137,7 +138,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="114" />
     <option name="y" value="65" />
     <option name="width" value="1440" />
@@ -202,12 +203,12 @@
       <updated>1537990091410</updated>
       <workItem from="1537990094535" duration="1865000" />
       <workItem from="1537991991329" duration="1536000" />
-      <workItem from="1538421479311" duration="3209000" />
+      <workItem from="1538421479311" duration="3937000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6610000" />
+    <option name="totallyTimeSpent" value="7338000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -219,8 +220,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="114" y="65" width="1440" height="780" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -229,7 +229,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25724638" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18923241" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -354,17 +354,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/ObjectID.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          <folding>
-            <marker date="1538425026090" expanded="false" signature="6:78" ph="..." />
-            <marker date="1538425026090" expanded="true" signature="117:141" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/Draggable.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -390,14 +379,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/ObjectID.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <marker date="1538425026090" expanded="false" signature="6:78" ph="..." />
+            <marker date="1538425026090" expanded="true" signature="117:141" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scenes/Scripts/TriggerID.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
-            <marker date="1538425408528" expanded="true" signature="59:221" ph="{...}" />
-            <marker date="1538425408528" expanded="true" signature="131:219" ph="{...}" />
-            <marker date="1538425408528" expanded="true" signature="191:212" ph="{...}" />
+            <marker date="1538425533598" expanded="true" signature="6:44" ph="..." />
+            <marker date="1538425533598" expanded="true" signature="85:335" ph="{...}" />
+            <marker date="1538425533598" expanded="true" signature="188:333" ph="{...}" />
+            <marker date="1538425533598" expanded="true" signature="248:326" ph="{...}" />
           </folding>
         </state>
       </provider>
