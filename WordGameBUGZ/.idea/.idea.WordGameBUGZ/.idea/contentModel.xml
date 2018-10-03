@@ -5,16 +5,18 @@
     <e p="C:\Users\10689129\Documents\MyRepos\2670_2.0\WordGameBUGZ" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="Scenes" t="Include">
-          <e p="Scripts" t="Include">
-            <e p="Draggable.cs" t="Include" />
-            <e p="Letter.cs" t="Include" />
-            <e p="Letters.cs" t="Include" />
-            <e p="NameID.cs" t="Include" />
-            <e p="ObjectID.cs" t="Include" />
-            <e p="TriggerID.cs" t="Include" />
-            <e p="Word.cs" t="Include" />
-          </e>
+        <e p="Scripts" t="Include">
+          <e p="ChangeColor.cs" t="Include" />
+          <e p="ColorData.cs" t="Include" />
+          <e p="Draggable.cs" t="Include" />
+          <e p="EventScript.cs" t="Include" />
+          <e p="Letter.cs" t="Include" />
+          <e p="Letters.cs" t="Include" />
+          <e p="MatchID.cs" t="Include" />
+          <e p="NameID.cs" t="Include" />
+          <e p="ObjectID.cs" t="Include" />
+          <e p="TriggerEnterEvent.cs" t="Include" />
+          <e p="Word.cs" t="Include" />
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
