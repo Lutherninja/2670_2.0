@@ -1,0 +1,3 @@
+[submodule "NavComps"]
+	path = NavComps
+	url = https://github.com/Lutherninja/NavMeshComponents
