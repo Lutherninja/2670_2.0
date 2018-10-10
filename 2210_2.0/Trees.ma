@@ -1,6 +1,6 @@
 //Maya ASCII 2018 scene
 //Name: Trees.ma
-//Last modified: Tue, Oct 09, 2018 07:09:39 PM
+//Last modified: Tue, Oct 09, 2018 07:13:14 PM
 //Codeset: 1252
 requires maya "2018";
 currentUnit -l centimeter -a degree -t film;
@@ -13,13 +13,13 @@ fileInfo "license" "student";
 createNode transform -s -n "persp";
 	rename -uid "5EBAF383-47CA-59E0-F2DA-F6A201533643";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 16.74197093008091 12.556478197560672 16.7419709300809 ;
+	setAttr ".t" -type "double3" 14.104448223291191 10.578336167468379 14.104448223291179 ;
 	setAttr ".r" -type "double3" -27.938352729602379 44.999999999999972 -5.172681101354183e-14 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "9C0B62E3-490A-FB7D-E3CF-AAB9C61A19B7";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999993;
-	setAttr ".coi" 26.8002299611993;
+	setAttr ".coi" 22.578133568543095;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
