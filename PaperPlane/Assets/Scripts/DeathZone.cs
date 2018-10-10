@@ -10,14 +10,15 @@ using UnityEngine.SceneManagement;
 [RequireComponent(typeof(Scene))]
 
 public class DeathZone : MonoBehaviour{
+ 
 
-private void currentScene;
+//private void currentScene;
 
 
 
 
-    private void OnTriggerEnter(Collider other)
-    {
-            GetComponent(currentScene);
-    }
+  //  private void OnTriggerEnter(Collider other)
+ //   {
+    //        GetComponent(currentScene);
+   // }
 }

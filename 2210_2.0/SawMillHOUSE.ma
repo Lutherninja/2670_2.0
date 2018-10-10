@@ -1,6 +1,10 @@
 //Maya ASCII 2018 scene
 //Name: SawMillHOUSE.ma
+<<<<<<< Updated upstream
 //Last modified: Mon, Oct 08, 2018 01:15:27 PM
+=======
+//Last modified: Mon, Oct 08, 2018 02:29:29 PM
+>>>>>>> Stashed changes
 //Codeset: 1252
 requires maya "2018";
 currentUnit -l centimeter -a degree -t film;
@@ -12,15 +16,24 @@ fileInfo "osv" "Microsoft Windows 8 Enterprise Edition, 64-bit  (Build 9200)\n";
 fileInfo "license" "student";
 createNode transform -s -n "persp";
 	rename -uid "9420D8EA-4A33-C0EA-371E-A581489C3304";
+<<<<<<< Updated upstream
 	setAttr ".t" -type "double3" 7.1682274137006718 19.620485673809863 -53.686447551369632 ;
 	setAttr ".r" -type "double3" -366.93835271165455 -3069.3999999990588 -359.99999999996515 ;
+=======
+	setAttr ".t" -type "double3" 3.9539663242551359 20.795112832609039 -90.203106737602155 ;
+	setAttr ".r" -type "double3" -364.5383527140977 179.39999999988962 -359.99999999999858 ;
+>>>>>>> Stashed changes
 	setAttr ".rp" -type "double3" -9.7699626167013776e-15 -1.0297873664910639e-12 -3.637978807091713e-12 ;
 	setAttr ".rpt" -type "double3" 1.1899327291381973e-13 -1.7238241691363582e-12 6.2266350323464069e-12 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "9A05B9C2-4763-544E-3D2E-4498CC436424";
 	setAttr -k off ".v";
 	setAttr ".fl" 34.999999999999979;
+<<<<<<< Updated upstream
 	setAttr ".coi" 68.935024973638903;
+=======
+	setAttr ".coi" 96.668380557667717;
+>>>>>>> Stashed changes
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
